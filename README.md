@@ -24,5 +24,8 @@ Trainly is a modern fitness web app built with **React** that helps users discov
 ---
 
 
+<img width="320" height="191" alt="trainly" src="https://github.com/user-attachments/assets/7d4874a6-d4ef-484f-a1c3-7d6d83db6a1e" />
+
+
 
 MIT License © 2025 Safwan Khan
